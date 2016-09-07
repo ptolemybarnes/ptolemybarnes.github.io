@@ -37,4 +37,4 @@ DependencyInjector.new(Controller).call
  #=> Doesn't blow up!
 ```
 
-This led me to the idea of attempting, in the spirit of learning to crowbar the features of other programming languages into Ruby.
+This led me to the idea of attempting, in the spirit of learning, to crowbar the features of other programming languages into Ruby.
