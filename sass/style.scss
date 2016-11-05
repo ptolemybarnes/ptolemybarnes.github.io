@@ -424,7 +424,8 @@ $size-header: 23em;
 		border: 0;
 		display: inline-block;
 		position: relative;
-		
+    opacity: 0.5;
+
 		img {
 			border-radius: $size-border-radius;
 			display: block;
@@ -983,7 +984,7 @@ $size-header: 23em;
 
 	#one {
 		&:before {
-			background-image: url('../images/banner.jpg');
+			background-image: url('../images/jeju_banner.jpg');
 			background-position: top right;
 			background-repeat: no-repeat;
 			background-size: cover;
