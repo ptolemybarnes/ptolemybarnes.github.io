@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How do you write functions?
-date:   2016-09-16 20:00
+date:   2016-11-08 20:00
 categories: clean_code, quotes
 ---
 >>
